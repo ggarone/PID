@@ -51,7 +51,7 @@ if __name__ == '__main__':
 	# gains
 	Kp = 0.5
 	Ki = 0.2
-	Kd = 0.01
+	Kd = 0.1
 	# number of iteration before the program stops (one iteration per second)
 	numberOfIterations = 100
 
